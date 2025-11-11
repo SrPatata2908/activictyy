@@ -16,8 +16,8 @@ Subes esos "commits" a GitHub para que otros los vean o para tener tu copia de s
 
 
 ## Comandos Usados
-* `git clone` - Para descargar el repositorio.
-* `git add` - Para preparar los archivos para el commit.
+* `cd activityy` - Entrar a la carpeta
+* `git add README.md` - Para preparar los archivos para el commit.
 * `git commit` - Para guardar los cambios en mi historial local.
 * `git push` - Para subir mis cambios a GitHub.
 
